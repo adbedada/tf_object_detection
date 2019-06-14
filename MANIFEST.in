@@ -1,0 +1,6 @@
+include README.md LICENSE object_detection_tutorial.ipynb
+recursive-include object_detection/protos *.proto
+recursive-include object_detection/g3doc *.md *.jpg
+recursive-include object_detection/data *.pbtxt *.txt
+recursive-include object_detection/test_images *.jpg
+exclude .DS_Store
