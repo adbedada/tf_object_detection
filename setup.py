@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'tf_object_detection'
 DESCRIPTION = 'tensorflow object-detection'
-URL = 'https://github.com/tensorflow/models/tree/master/research/object_detection'
+URL = 'https://github.com/adbeda/tf_object_detection'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = 0.1
 
